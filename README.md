@@ -18,6 +18,7 @@ The original dataset contains detailed demographic and economic information for 
 # Building the Dashboard
 ## Pivot Tables
 **Total Businesses by State**
+
 ![](Top_businesses.png)
 
 * Summarizes the number of businesses per state.
@@ -27,12 +28,14 @@ The original dataset contains detailed demographic and economic information for 
 * Useful for comparing business density relative to population.
 
 **Count of ZIP Codes per State**
+
 ![](zip_count.png)
 
 * Counts the total number of ZIP codes for each state, indicating geographic complexity and coverage.
 * Valuable for regional analysis, logistics planning, or market segmentation.
 
 **Population by State**
+
 ![](population.png)
 * Displays total population summed across zip codes for each state.
 
@@ -41,12 +44,14 @@ The original dataset contains detailed demographic and economic information for 
 * Grand total shows combined population for the top states: 141 million+.
 ## Pivot Charts
 **Total Businesses by State**
+
 ![](business.png)
 * Visualizes the number of businesses in the six leading states.
 * Clearly shows California as the economic powerhouse with 967K businesses, far outpacing New York, Texas, and others.
 * Makes it easy to compare state-level economic activity at a glance.
 
 **Count of ZIP Codes per State**
+
 ![](zip.png)
 
 * Displays the distribution of ZIP codes across the United States in a geographic heat map.
@@ -54,9 +59,11 @@ The original dataset contains detailed demographic and economic information for 
 * Darker shades indicate states with a higher number of ZIP codes, such as Texas (1990), California (1802), and Pennsylvania (1835).
 
 Helps visualize geographic complexity and coverage, essential for logistics, service planning, or regional analysis.
+
 **Population by State**
+
 ![](pop.png)
-* Visually breaks down total population across the five most populous states.
+* Visually breaks down the total population across the five most populous states.
 
 * Highlights California (44.2M) and Texas (33.4M) as the most populated, with New York, Florida, and Pennsylvania following.
 
